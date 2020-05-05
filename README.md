@@ -1,4 +1,4 @@
-IPv4 Subnet Calculator (PHP)
+IPv4 Subnet Hesaplayici (PHP)
 ============================
 
 Network calculator for subnet mask and other classless (CIDR) network information.
